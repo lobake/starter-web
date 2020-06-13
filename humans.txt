@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Freyja Harris fyharris@comcast.net @sometwitterthing
 
 # THANKS
 
