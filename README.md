@@ -18,4 +18,4 @@ This is a simple web project. Deployment can be on any web server or even the lc
 Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
-2020 Git.Training.
+2020 Git Training. All rights reserved
