@@ -2,8 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    Freyja Harris fyharris@comcast.net @sometwitterthing
+    Jason Taylor  jason@git.training   @awesomejt
 
 # THANKS
 
@@ -14,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
